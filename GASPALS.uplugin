@@ -1,8 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.5",
-	"Category": "Samples",
-	"Description": "",
+  	"Version": 1,
+  	"VersionName": "1.0.0",
+  	"FriendlyName": "GASP-ALS Integration",
+  	"Description": "Advanced Locomotion System with GAS layering modified for Lyra-based projects.",
+  	"Category": "Animation",
+  	"CreatedBy": "PolygonHive, modified: Unintendoed Consequences",
+  	"DocsURL": "https://github.com/PolygonHive/GASP-ALS",
+  	"EnabledByDefault": false,
+  	"CanContainContent": true,
+  	"IsBetaVersion": true,
+ 	"Installed": false,
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
